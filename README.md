@@ -61,7 +61,7 @@ This repository **collects and structures CSE fundamentals** for steady study an
   - 📘 **Books / References**
     - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
   - 🎥 **Courses**
-
+    - [http://www.kocw.net/home/cview.do?cid=4b9cd4c7178db077] - 반효경 교수 운영체제
 - **PLT (Programming Language Theory: Automata/Compiler)**  
   - Topics: formal languages & automata, lexical analysis, parsing, semantic analysis, type systems, interpreter vs compiler  
   - 📘 **Books / References**: —  
