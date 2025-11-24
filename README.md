@@ -59,6 +59,7 @@ This repository **collects and structures CSE fundamentals** for steady study an
 - **Operating Systems**  
   - Topics: process/thread, CPU scheduling, synchronization, deadlock, memory management, file systems  
   - 📘 **Books / References**
+    - *Operating System Concepts (Abraham Silberschatz , Peter B. Galvin , Greg Gagne)*
     - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
   - 🎥 **Courses**
     - [http://www.kocw.net/home/cview.do?cid=4b9cd4c7178db077] - 반효경 교수 운영체제
