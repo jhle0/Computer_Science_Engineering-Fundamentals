@@ -15,7 +15,6 @@ This repository **collects and structures CSE fundamentals** for steady study an
 
 ## 🗂 Repository Structure
 📦 CSE-Fundamentals   
-┣ 📂 0_math   
 ┣ 📂 [1_computer_architecture](./1.1_computer_architecture)  
 ┣ 📂 [2_network](./2.1_Network)  
 ┣ 📂 [3_operating_system](./3.1_Operating_System)   
@@ -36,12 +35,6 @@ This repository **collects and structures CSE fundamentals** for steady study an
 
 ---
 ## 🧩 Roadmap Overview
-
-- **Mathematics (Calculus · Linear Algebra · Probability & Statistics · Discrete Math)**  
-  - Topics: multivariable calculus/gradient, vector space & spectral theorem, CLT & Bayesian basics, graphs/combinatorics/number theory  
-  - 📘 **Books / References**: —  
-  - 🎥 **Courses**: —
-
 - **Computer Architecture**  
   - Topics: CPU operation, pipelining, memory hierarchy, interrupts, DMA, cache, bus, instruction cycle  
   - 📘 **Books / References**
@@ -63,8 +56,8 @@ This repository **collects and structures CSE fundamentals** for steady study an
     - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
   - 🎥 **Courses**
     - [http://www.kocw.net/home/cview.do?cid=4b9cd4c7178db077] - 반효경 교수 운영체제
-- **PLT (Programming Language Theory: Automata/Compiler)**  
-  - Topics: formal languages & automata, lexical analysis, parsing, semantic analysis, type systems, interpreter vs compiler  
+- **PLT (Programming Language Translter)**  
+  - Topics: Interpreter vs Compiler, Language Execution Model, Runtime System, Memory Model, Garbage Collection, Type Systems, Scope, Binding, Closure, Intermediate Representation 
   - 📘 **Books / References**: —  
   - 🎥 **Courses**: —  
 
