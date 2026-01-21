@@ -56,9 +56,15 @@ This repository **collects and structures CSE fundamentals** for steady study an
     - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
   - 🎥 **Courses**
     - [http://www.kocw.net/home/cview.do?cid=4b9cd4c7178db077] - 반효경 교수 운영체제
+
+- **Data structers and Algorithms**  
+  - Topics: Complexity / Proof / Recursion / Data Structures / Graph / Search / Backtracking / Greedy / Binary Search / Parametric Search / DP / Shortest Path / Segment Tree / Fenwick
+  - 📘 **Books / References**: —  
+  - 🎥 **Courses**: — 
+
 - **PLT (Programming Language Translter)**  
   - Topics: Interpreter vs Compiler, Language Execution Model, Runtime System, Memory Model, Garbage Collection, Type Systems, Scope, Binding, Closure, Intermediate Representation 
-  - 📘 **Books / References**: —  
+  - 📘 **Books / References**: —  *Algorithmic Problem Solving Strategies (구종만)*
   - 🎥 **Courses**: —  
 
 - **Database**  
