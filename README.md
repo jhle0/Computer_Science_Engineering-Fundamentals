@@ -15,7 +15,7 @@ This repository **collects and structures CSE fundamentals** for steady study an
 
 ## 🗂 Repository Structure
 📦 CSE-Fundamentals   
-┣ 📂 [0_math](./0.1_math)  
+┣ 📂 [0_math](./0.1_Math)  
 ┣ 📂 [1_computer_architecture](./1.1_computer_architecture)  
 ┣ 📂 [2_network](./2.1_Network)  
 ┣ 📂 [3_operating_system](./3.1_Operating_System)   
