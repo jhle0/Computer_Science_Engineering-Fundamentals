@@ -15,6 +15,7 @@ This repository **collects and structures CSE fundamentals** for steady study an
 
 ## 🗂 Repository Structure
 📦 CSE-Fundamentals   
+┣ 📂 [0_math](./0.1_math)  
 ┣ 📂 [1_computer_architecture](./1.1_computer_architecture)  
 ┣ 📂 [2_network](./2.1_Network)  
 ┣ 📂 [3_operating_system](./3.1_Operating_System)   
@@ -35,10 +36,17 @@ This repository **collects and structures CSE fundamentals** for steady study an
 
 ---
 ## 🧩 Roadmap Overview
+- **math**  
+  - Topics: linear algebra, calculus, probability & statistics, optimization, information theory 
+  - 📘 **Books / References**
+    - *Mathematics for Machine Learning (Deisenroth, Marc Peter , Faisal, A. Aldo , Ong, Cheng Soon)*
+  - 🎥 **Courses**
+    - 3Blue1Brown - Essence of linear algebra
+
 - **Computer Architecture**  
   - Topics: CPU operation, pipelining, memory hierarchy, interrupts, DMA, cache, bus, instruction cycle  
   - 📘 **Books / References**
-    - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
+    - *혼자 공부하는 컴퓨터 구조+운영체제 (강민철 저)* 
     - *Computer Organization and Design* – Patterson & Hennessy  
   - 🎥 **Courses**
 
@@ -53,7 +61,7 @@ This repository **collects and structures CSE fundamentals** for steady study an
   - Topics: process/thread, CPU scheduling, synchronization, deadlock, memory management, file systems  
   - 📘 **Books / References**
     - *Operating System Concepts (Abraham Silberschatz , Peter B. Galvin , Greg Gagne)*
-    - *혼자 공부하는 컴퓨터 구조+운영체제* (강민철 저)  
+    - *혼자 공부하는 컴퓨터 구조+운영체제 (강민철 저)*  
   - 🎥 **Courses**
     - [http://www.kocw.net/home/cview.do?cid=4b9cd4c7178db077] - 반효경 교수 운영체제
 
